@@ -1,0 +1,8 @@
+.container {
+    max-width: none;
+}
+
+li {
+list-style: none;
+padding: 10px;
+}
